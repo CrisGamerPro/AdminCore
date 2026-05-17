@@ -1,3 +1,5 @@
+![AdminCore Logo](/IMG_4909.png)
+
 # AdminCore
 Un AdminPanel versátil para Roblox.
 
